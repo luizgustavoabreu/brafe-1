@@ -2,7 +2,7 @@
 
 <div align="center">
  
- ### Projetos **Brafé - 1**, sendo feito no Curso de CSS Avançado/Posicionamento da Origamid. 
+ ### Projeto **Brafé 1**, sendo feito no Curso de CSS Avançado/Posicionamento da Origamid. 
  <br>
  
 |**Brafé 1**|**Deploy**|
