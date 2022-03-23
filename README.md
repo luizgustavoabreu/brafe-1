@@ -8,7 +8,7 @@
 |**Brafé 1**|**Deploy**|
 |:---:|---|
 |*Puro:*|https://luizgustavoabreu.github.io/brafe-1/puro|
-|*Grid:*| |
+|*Grid:*|https://luizgustavoabreu.github.io/brafe-1/grid  :construction:|
 |*Flexbox:*| |
 |*Bootstrap:*| |
  
