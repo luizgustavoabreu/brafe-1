@@ -2,13 +2,13 @@
 
 <div align="center">
  
- ### Projeto **Brafé 1**, sendo feito no Curso de CSS Avançado/Posicionamento da Origamid. 
+ ### Site **Brafé (layout 1)**, sendo feito de quatro maneiras diferentes no <br> curso de CSS Avançado/Posicionamento da Origamid. 
  <br>
  
 |**Brafé 1**|**Deploy**|
 |:---:|---|
 |*Puro:*|https://luizgustavoabreu.github.io/brafe-1/puro|
-|*Grid:*|https://luizgustavoabreu.github.io/brafe-1/grid  :construction:|
+|*Grid:*|https://luizgustavoabreu.github.io/brafe-1/grid|
 |*Flexbox:*| |
 |*Bootstrap:*| |
  
