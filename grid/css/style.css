@@ -49,7 +49,9 @@ img {
 }
 
 @media (max-width: 739px) {
-
+  .menu {
+    text-align: center;
+  }
   .menu img {
     float: none;
     margin: 6px auto 0 auto;
