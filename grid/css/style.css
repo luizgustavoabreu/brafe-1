@@ -56,7 +56,9 @@ img {
     float: none;
     margin: 6px auto 0 auto;
   }
-  .menu-nav a {
+  .menu-nav {
+    float: none;
+    clear: both;
     margin: 5px 0 -10px 0;
   }
   .menu-nav ul {
