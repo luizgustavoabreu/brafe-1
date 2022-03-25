@@ -23,7 +23,7 @@ body {
 
 .menu {
   background: #252525;
-  padding: 20px 0;
+  padding: 15px 0;
 }
 
 .menu-container {
@@ -259,7 +259,7 @@ h2.produtos-mineiro::before {
 }
 
 .produtos-btn {
-  width: 174px;
+  width: 180px;
   border: 3px solid;
   color: #252525;
   text-decoration: none;
