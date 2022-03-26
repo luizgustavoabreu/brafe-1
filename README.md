@@ -9,7 +9,7 @@
 |:---:|---|
 |*Puro:*|https://luizgustavoabreu.github.io/brafe-1/puro|
 |*Grid:*|https://luizgustavoabreu.github.io/brafe-1/grid|
-|*Flexbox:*|https://luizgustavoabreu.github.io/brafe-1/flexbox  :construction:|
-|*Bootstrap:*| |
+|*Flexbox:*|https://luizgustavoabreu.github.io/brafe-1/flexbox|
+|*Bootstrap:*|https://luizgustavoabreu.github.io/brafe-1/bootstrap  :construction:|
  
 </div>
