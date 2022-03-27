@@ -309,7 +309,7 @@ h2.produtos-mineiro::before {
 
 .assine form {
   flex: 1;
-  margin: 0 10px;
+  margin: 7px 10px 0 10px;
   display: flex;
   flex-wrap: wrap;
   align-content: flex-start;

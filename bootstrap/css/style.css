@@ -28,7 +28,7 @@ img {
 
 .menu {
   background: #252525;
-  padding: 15px 0px;
+  padding: 12px 0px;
 }
 
 .menu-logo {
@@ -272,7 +272,7 @@ h2.produtos-mineiro::before {
 }
 
 .assine form {
-  margin-top: 10px;
+  margin-top: 7px;
   display: flex;
   flex-wrap: wrap;
   align-content: flex-start;
