@@ -75,6 +75,14 @@ a.menu-logo {
     padding-top: 5px;
     margin-bottom: -10px;
   }
+  .menu ul {
+    margin-left: 10px;
+  }
+  .menu-nav ul li a {
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-right: 8px;
+  }
 }
 
 /* Intro */

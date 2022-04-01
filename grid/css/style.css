@@ -45,7 +45,7 @@ img {
   font-size: 1.125em;
   display: block;
   padding: 10px;
-  margin-left: 10px;
+  /* margin-left: 10px; */
 }
 
 @media (max-width: 739px) {

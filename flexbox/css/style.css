@@ -51,7 +51,7 @@ body {
 
 .menu-nav {
   flex: 1;
-  margin: 0 10px;
+  margin: 0 8px;
   align-self: center;
 }
 
@@ -62,7 +62,7 @@ body {
 }
 
 .menu-nav ul li a {
-  padding: 10px;
+  padding: 12px;
 }
 
 @media (max-width: 739px) {
@@ -239,7 +239,7 @@ h2.produtos-mineiro::before {
 /* Locais */
 
 .locais {
-  padding: 60px 0 30px 0;
+  padding: 60px 0 20px 0;
 }
 
 .locais-item {
