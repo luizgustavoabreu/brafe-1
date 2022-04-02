@@ -202,6 +202,10 @@ a.menu-logo {
     width: 300px;
     margin: 0 auto;
   }
+  .sobre > p {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
 }
 
 /* Produtos */
